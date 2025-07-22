@@ -1,0 +1,201 @@
+StudentID, Name,Gender,Age ,CountryOfOrigin,CountryOfDestination,YearOfMigration,ProgramOfStudy,Email,ContactNumber,PassportNumber,GPA,ParentName,ScholarshipStatus,AgentName,ApplicationFee,Remarks,GraduationYear,AdmissionTestScore,Address,Batch
+S1001,Alex Smith ,Male,21,India ,USA,2020,Computer Science,alex.smith@email.com,1234567890,AB1234567,3.8,Robert Smith,yes,Mr. Kumar,100,OK,2024,320,123 Main St.,2020A
+S1002, Maria Gomez,Female,22,Mexico,Canada,2020,Business Administration,maria.gomez@email.com,,CD2345678,3.7,Ana Gomez,No,,150,Delayed,2023,310,456 Oak Ave,2020B
+S1003,Chen Wei,Male,23,China,Australia,2020,Engineering,chenwei@email.cn,3456789012,EF3456789,3.6,Wei Li,yes,Mr. Wong,0,Resubmit,2023,not available,789 Pine Rd,2020C
+S1004,Anna Ivanova,Female,,Russia,Germany,2020,PHYSICS, ,4567890123,GH4567890, ,Sergei Ivanov,No,Dr. Stein,100,Missing docs,2024,315,1010 Birch Blvd,2020A
+S1005,John Doe,Male,24,USA,UK,2020,Law,john.doe@email.com,5678901234,JK5678901,3.9,Jane Doe,yes,Ms. Smith,not available,OK,2024, ,,2020B
+S1006,Sara Lee,Female,22,South Korea,usa,2020,Biology,sara.lee@email.kr,6789012345,LM6789012,3.5,Sun Lee,YES,Mr. Kim,125,Expedite,2025,330,5 Maple Lane,2020C
+S1007,David Brown,,twenty-five,Canada,France,2020,Economics,david.brown@email.ca,7890123456,MN7890123,Paul Brown,No,Ms. Dubois,80,Low funds,2023,300,11 Elm St,2020A,
+S1008,Julia Rossi,Female,21,Italy,Spain,2020,Architecture,julia.rossi@email.it,8901234567,OP8901234,3.4,Marco Rossi,No,,120,Complete,2024,310, ,2020B
+S1009,Ahmed Hassan,Male,23,Egypt,Turkey,2020,Medicine,ahmed.hassan@mail.eg,9012345678,QR9012345,3.3,Hassan Ali,No,Ms. Demir,100,Denied,2023,not entered,23 Park Rd,2020C
+S1010,Emily Clark,Female,22,UK,Australia,2020,Education,emily.clark@mail.uk,1012345678,ST1012345,3.7,Tom Clark,YES,Dr. White,110,Incomplete,2024,325,,2020A
+S1011,Lucas Silva,,21,Brazil, Portugal,2020,Computer Science,lucas.silva@mail.br,1123456789,UV1123456,3.5,Ricardo Silva,yes,Ms. Costa,90,OK,2025,340,7 Cedar Dr,2020B
+S1012,Sophie Dubois,Female,20,France,Canada,2020,Psychology,sophie.dubois@mail.fr,1234567891,WX1234567,3.8,Pierre Dubois,NO,Mr. Martin,115,Interview req,2023,315,55 Willow Pl,2020C
+S1013,Arjun Patel,Male,24,India,USA,2020,Mathematics,arjun.patel@mail.in,,YZ1345678,,Suresh Patel,yes,Ms. Jones,110,Fast track,2024,321,12 Lakeview,2020A
+S1014,Olga Kovalchuk,Female,23,Ukraine,Germany,2020,Political Science,olga.kov@mail.ua,1456789123,AA1456789,3.4,Ivan Kovalchuk,YES,,90,Docs in review,2023,not available,1 Riverside,2020B
+s1015,James Wilson,Male,22,USA,Netherlands,2020,Engineering,james.wilson@mail.us,1567891234,BB1567890,3.6,Amy Wilson,yes,Ms. Bakker,100,Rejected,2024,not entered,12A Main St,2020C
+S1016,Laura Müller,Female,21,Germany,Switzerland,2020,,laura.mueller@email.de,1678912345,CC1678912,3.9,Thomas Müller,YES,Mr. Keller,130,Pending interview,2025,,1090 Alpine Rd,2020A
+S1017,Pedro Alvarez,Male,25,Spain,UK,20twenty,History,pedro.alvarez@mail.es,1789123456,DD1789123,4,Juan Alvarez,No,Ms. Green,120,OK,2023,305, ,2020B
+S1018,Nina Popov,Female,twenty,Russia,France,2020,Music,nina.popov@mail.ru,1891234567,EE1891234,3.2,Sergey Popov,YES,Mr. Lefevre,95,Accepted,2023,330,91 Walnut Av,2020C
+S1019,Minh Tran,Male,23,Vietnam,Australia,2020,Computer Science,minh.tran@mail.vn,1912345678,FF1912345,3.5,Tran Van,No,Ms. Brown,100,More docs needed,2025,299, ,2020A
+S1020,Emma Johansson,Female,22,Sweden, Denmark,2020,Medicine,emma.johansson@mail.se,2012345678,GG2012346,3.8,Olof Johansson,YES,Mr. Petersen,100,Followup,2023,301,88 Spruce Blvd,2020B
+S1021,Ali Reza,Male,24,Iran,Canada,2020,Physics,ali.reza@mail.ir,2123456789,HH2123457,3.6,Reza Farid,No,Ms. Singh,120,OK,2024,not available,,2020C
+S1022,Hannah Kim,Female,21,South Korea,USA,2020,Engineering,hannah.kim@mail.kr,2234567890,II2234568,3.5,Kim Dong,YES,Mr. Smith,130,Low IELTS,2023,315, ,2020A
+S1023,Diego Torres,Male,23,,Spain,2020,Law,diego.torres@mail.mx,2345678901,JJ2345679,3.7,Juan Torres,yes,Ms. Perez,100,OK,2025,not entered, ,2020B
+S1024,Anastasia Petrova,Female,22,Russia,Italy,2020,Art,anastasia.petrova@mail.ru,2456789012,KK2456780,3.4,Petro Petrova,NO,Dr. Romano,110,Review,2024,333,21 Poplar St,2020C
+S1025,Michael Brown,Male,25,USA,Australia,2020,Business Administration,michael.brown@email.com,2567890123,LL2567891,3.9,George Brown,yes,Mr. Black,100,OK,2023,320, ,2020A
+S1026,Leah Cohen,Female,20,Israel,UK,2020,Education,leah.cohen@mail.il,2678901234,MM2678902,3.5,Rachel Cohen,No,Ms. Clark,120,Delay,2025, ,23B King St,2020B
+S1027,William Johnson,Male,21,Canada,Germany,2020,Economics,william.johnson@mail.ca,2789012345,NN2789013,,Mary Johnson,YES,Mr. Becker,80,Docs pending,2023,312, ,2020C
+S1028,,Female,22,Germany,USA,2020,Computer Science,linda.schmidt@email.de,2890123456,OO2890124,3.8,Karl Schmidt,yes,Ms. Clark,110,OK,2025,,22 Unknown Rd,2020A
+S1029,Rajat Sharma,Male,23,India,Frnace,2020,Engineering,rajat.sharma@email.in,2901234567,PP2901235,3.6,Anil Sharma,yes,Dr. Durand,130,Low GPA,2025,299, ,2020B
+S1030,Isabella Rossi,Female,24,Italy,Spain,2020,Architecture,isabella.rossi@email.it,3012345678,QQ3012346,3.7,Luigi Rossi,No,Mr. Sanchez,100,OK,2024,not available,18 Olive,2020C
+S1031,Alex Smith,Male,21,India,USA,2021,Computer Science,alex.smith@email.com,1234567890,AB1234567,3.8,Robert Smith,yes,Mr. Kumar,100,OK,2024,320,123 Main St.,2021A
+S1032,Maria Gomez,Female,22,Mexico,Canada,2021,Business Administration,maria.gomez@email.com,,CD2345678,3.7,Ana Gomez,No,,150,Delayed,2023,310,456 Oak Ave,2021B
+S1033,Chen Wei,Male,,China,Australia,2021,Engineering,chenwei@email.cn,3456789012,EF3456789,3.6,Wei Li,yes,Mr. Wong,0,Resubmit,2023,not available,789 Pine Rd,2021C
+S1034,Anna Ivanova,Female,20,Russia,Germany,2021,PHYSICS, ,4567890123,GH4567890, ,Sergei Ivanov,No,Dr. Stein,100,Missing docs,2024,315,1010 Birch Blvd,2021A
+S1035,John Doe,Male,24,USA,UK,2021,Law,john.doe@email.com,5678901234,JK5678901,3.9,Jane Doe,yes,Ms. Smith,not available,OK,2024, ,,2021B
+S1036,Sara Lee,Female,twenty-two,South Korea,USA,2021,Biology,sara.lee@email.kr,6789012345,LM6789012,3.5,Sun Lee,YES,Mr. Kim,125,Expedite,2025,330,5 Maple Lane,2021C
+S1037,David Brown,Male,25,Canada,France,2021,Economics,david.brown@email.ca,7890123456,MN7890123,Paul Brown,No,Ms. Dubois,80,Low funds,2023,300,11 Elm St,2021A,
+S1038,Julia Rossi,Female,21,Italy,Spain,2021,Architecture,julia.rossi@email.it,8901234567,OP8901234,3.4,Marco Rossi,No,,120,Complete,2024,310, ,2021B
+S1039,Ahmed Hassan,Male,23,Egypt,Turkey,2021,Medicine,ahmed.hassan@mail.eg,9012345678,QR9012345,3.3,Hassan Ali,No,Ms. Demir,100,Denied,2023,not entered,23 Park Rd,2021C
+S1040,Emily Clark,Female,22,UK,Australia,2021,Education,emily.clark@mail.uk,1012345678,ST1012345,3.7,Tom Clark,YES,Dr. White,110,Incomplete,2024,325,,2021A
+S1041,Lucas Silva,Male,21,Brazil, Portugal,2021,Computer Science,lucas.silva@mail.br,1123456789,UV1123456,3.5,Ricardo Silva,yes,Ms. Costa,90,OK,2025,340,7 Cedar Dr,2021B
+S1042,Sophie Dubois,Female,20,France,Canada,2021,Psychology,sophie.dubois@mail.fr,1234567891,WX1234567,3.8,Pierre Dubois,NO,Mr. Martin,115,Interview req,2023,315,55 Willow Pl,2021C
+S1043,Arjun Patel,Male,24,India,USA,2021,Mathematics,arjun.patel@mail.in,,YZ1345678,,Suresh Patel,yes,Ms. Jones,110,Fast track,2024,321,12 Lakeview,2021A
+S1044,Olga Kovalchuk,Female,23,Ukraine,Germany,2021,Political Science,olga.kov@mail.ua,1456789123,AA1456789,3.4,Ivan Kovalchuk,YES,,90,Docs in review,2023,not available,1 Riverside,2021B
+s1045,James Wilson,Male,22,USA,Netherlands,2021,Engineering,james.wilson@mail.us,1567891234,BB1567890,3.6,Amy Wilson,yes,Ms. Bakker,100,Rejected,2024,not entered,12A Main St,2021C
+S1046,Laura Müller,Female,21,Germany,Switzerland,2021,,laura.mueller@email.de,1678912345,CC1678912,3.9,Thomas Müller,YES,Mr. Keller,130,Pending interview,2025,,1090 Alpine Rd,2021A
+S1047,Pedro Alvarez,Male,25,Spain,UK,21twenty,History,pedro.alvarez@mail.es,1789123456,DD1789123,4,Juan Alvarez,No,Ms. Green,120,OK,2023,305, ,2021B
+S1048,Nina Popov,Female,20,Russia,France,2021,Music,nina.popov@mail.ru,1891234567,EE1891234,3.2,Sergey Popov,YES,Mr. Lefevre,95,Accepted,2023,330,91 Walnut Av,2021C
+S1049,Minh Tran,Male,23,Vietnam,Australia,2021,Computer Science,minh.tran@mail.vn,1912345678,FF1912345,3.5,Tran Van,No,Ms. Brown,100,More docs needed,2025,299, ,2021A
+S1050,Emma Johansson,Female,22,Sweden, Denmark,2021,Medicine,emma.johansson@mail.se,2012345678,GG2012346,3.8,Olof Johansson,YES,Mr. Petersen,100,Followup,2023,301,88 Spruce Blvd,2021B
+S1051,,Male,20,India,USA,2022,Computer Science,,,,3.9,Unknown,No,,100,Missing,2023,310,Unknown St,2022A
+S1052,,,,,,,,,,,,,,,,,,,,
+S1053,Jessica Smith,Female,19,UK,Canada,2023,Art,,123456789,GH1234,3.1,Lucy Smith,YES,Mr. Green,80,Blank,2026,320,NoAddress,2023A
+S1054,Wei Zhang,Female,22,China,UK,2022,Physics,wei.zhang@email.cn,2345678901,LM1234567,3.6,Chang Zhang,yes,Mr. Blue,90,OK,2026,312,Somewhere,2022A
+S1055,Rajesh Kumar,Male,21,India,USA,2022,Engineering,rajesh.kumar@mail.in,3456789012,NOPASS,3.4,Ram Kumar,No,,125,Incomplete,2025,299, ,2022B
+S1056, , , , , , , , , , , , , , , , , , , , 
+S1057,Anna Rossi,Female,21,Italy,France,2023,Engineering,anna.rossi@email.it,4567890123,PQ4567890,3.7,Marco Rossi,YES,Dr. Laurent,150,OK,2027,311,Via Roma,2023B
+S1058,Oscar Schmidt,Male,25,Germany,USA,2023,Economics,,5678901234,XX9999999,3.3,Peter Schmidt,NO,Ms. Brown,100,Low GPA,2026,not available,10 Berlin Ln,2023A
+S1059,Jane Doe,Female,22,USA,Australia,2022,Business Administration,jane.doe@email.com,6789012345,YY1234567,3.5,John Doe,YES,Mr. Black,120,Accepted,2027,not entered, ,2022C
+S1060,Minh Nguyen,Male,twenty,Vietnam,USA,2022,Medicine,minh.nguyen@mail.vn,7890123456,ZZ1234567,3.9,Nam Nguyen,NO,Ms. White,100,OK,2027,311, ,2022A
+S1061,Sara Müller,Female,22,Germany,Switzerland,2023,Education,sara.mueller@email.de,8901234567,AA9876543,3.8,Peter Müller,YES,Mr. Keller,110,Docs,2027,320, ,2023C
+S1062,Yuki Tanaka,Female,20,Japan,Australia,2024,Engineering,yuki.tanaka@email.jp,9012345678,BB9876543,3.6,Ken Tanaka,No,Mr. Sato,90,Unknown,2028,328,Tokyo St,2024B
+S1063,,,,,,,,,,,,,,,,,,,,
+S1064,Chloe Martin,Female,23,France,USA,2025,Data Science,,,,8.2,Martin Pierre,YES,Dr. White,120,OK,2029,340,5 Rue Lane,2025A
+S1065,Samuel Kim,Male,24,South Korea,UK,2025,Film Studies,samuel.kim@email.kr,1231231234,CC9876543,3.1,Kim Song,No,Ms. Lee,100,Rejected,2029,327,Seoul Rd,2025B
+S1066,Anna Karlsson,Female,21,Sweden,Germany,2024,Accounting,anna.karlsson@email.se,3213214321,DD9876543,3.7,Karl Karlsson,YES,Mr. Bauer,110,OK,2028,321,Stockholm St,2024A
+S1067,,,,,,,,,,,,,,,,,,,,
+S1068,Jack Miller,Male,23,USA,Canada,2025,Political Science,,,,3.6,John Miller,No,Ms. Lopez,120,Docs missing,2029,330,NY St,2025C
+S1069,Yuki Tanaka,Female,22,Japan,Australia,2025,Engineering,,,,,Ken Tanaka,No,Mr. Sato,100,Pending,2029,325, ,2025A
+S1070,Jessica Smith,Female,20,UK,Netherlands,2023,Law,jessica.smith@mail.uk,2342342345,EE9876543,3.8,Emily Smith,YES,Ms. de Vries,90,OK,2026,320, ,2023B
+S1071,Oscar Schmidt,Male,23,Germany,USA,2025,Economics,oscar.schmidt@mail.de,3453453456,FF9876543,3.5,Peter Schmidt,No,Mr. Green,130,Rejected,2029,315, ,2025B
+S1072,Emma Brown,Female,20,USA,Germany,2024,Mathematics,emma.brown@email.com,4564564567,GG9876543,3.7,Anna Brown,YES,Dr. Keller,110,Docs in review,2028,310, ,2024C
+S1073,,,,,,,,,,,,,,,,,,,,
+S1074,Anna Rossi,Female,22,Italy,France,2020,Engineering,,,,,Marco Rossi,No,Dr. Laurent,100,OK,2024, , ,2020C
+S1075,David Lee,Male,24,South Korea,Australia,2021,Computer Science,,,,,Lee Jin,YES,Ms. Brown,100,OK,2025, , ,2021A
+S1076,,,,,,,,,,,,,,,,,,,,
+S1077,Sara Müller,Female,21,Germany,Switzerland,2022,Education,,,,,Peter Müller,YES,Mr. Keller,100,Pending,2026, , ,2022A
+S1078,James Smith,Male,23,UK,Netherlands,2023,Engineering,,,,,Anne Smith,YES,Ms. van Dijk,110,OK,2027, , ,2023A
+S1079,Linda Garcia,Female,22,Spain,France,2024,Business Admin,,,,,Carlos Garcia,No,Dr. Martin,110,Rejected,2028, , ,2024A
+S1080,Minh Nguyen,Male,twenty,Vietnam,USA,2025,Medicine,,,,,Tuan Nguyen,YES,Ms. Brown,90,Docs missing,2029, , ,2025A
+S1081,,,,,,,,,,,,,,,,,,,,
+S1082,,,,,,,,,,,,,,,,,,,,
+S1083,,,,,,,,,,,,,,,,,,,,
+S1084,,,,,,,,,,,,,,,,,,,,
+S1085,,,,,,,,,,,,,,,,,,,,
+S1086,,,,,,,,,,,,,,,,,,,,
+S1087,,,,,,,,,,,,,,,,,,,,
+S1088,,,,,,,,,,,,,,,,,,,,
+S1089,,,,,,,,,,,,,,,,,,,,
+S1090,,,,,,,,,,,,,,,,,,,,
+S1091,Lucas Martin,Male,22,France,USA,2023,Computer Science,lucas.martin@mail.fr,2132145555,NEWPASS,3.5,Jean Martin,NO,Ms. Belle,112,OK,2027,308,Paris Rd,2023B
+S1092,Rita Patel,Female,21,India,Canada,2022,Biology,rita.patel@mail.in,1239876543,PASS987,3.2,Ramesh Patel,yes,Mr. Joshi,100,Missing,2026,299,Ahmedabad,2022C
+S1093,Ingvar Bergman,Male,22,Sweden,Denmark,2023,Physics,ingvar.bergman@mail.se,2345678910,PP998877,3.8,Erik Bergman,YES,Ms. Jensen,120,OK,2027,322,Stockholm,2023C
+S1094,Giulia Ricci,Female,24,Italy,Spain,2022,Architecture,giulia.ricci@mail.it,3458765432,ARCH123,3.7,Luca Ricci,No,Dr. Torres,115,OK,2026,320,Rome,2022A
+S1095,Oscar Lopez,Male,25,Mexico,Spain,2024,History,oscar.lopez@mail.mx,4569871230,HIST777,3.1,Marcos Lopez,yes,Ms. Gomez,120,Delayed,2028,305,Madrid,2024B
+S1096,Yan Li,Female,21,China,Australia,2022,Engineering,yan.li@mail.cn,5678912340,ENG888,3.4,Wei Li,YES,Mr. Chen,110,OK,2026,330,Beijing,2022B
+S1097,George Brown,Male,23,USA,France,2023,Economics,george.brown@email.com,6789123451,ECON111,3.5,Tom Brown,No,Ms. Dubois,100,OK,2027,315,San Francisco,2023B
+S1098,Elena Petrova,Female,22,Russia,Germany,2025,Political Science,elena.petrova@mail.ru,7891234560,POL222,3.7,Ivan Petrova,No,Dr. Muller,130,OK,2029,310,Moscow,2025C
+S1099,Ahmed Zaki,Male,24,Egypt,Turkey,2022,Medicine,ahmed.zaki@mail.eg,8901234567,MED333,3.3,Zaki Ahmed,YES,Dr. Hassan,120,Docs,2026,312,Cairo,2022A
+S1100,Isabel Gomez,Female,23,Spain,UK,2024,Law,isabel.gomez@mail.es,9012345678,LAW444,3.6,Juan Gomez,No,Ms. Green,100,OK,2028,317,Barcelona,2024A
+S1101,Olga Ivanova,Female,21,Russia,Italy,2023,Art,olga.ivanova@mail.ru,9876543210,ART555,3.9,Sergei Ivanov,YES,Dr. Romano,105,OK,2027,312,Rome,2023A
+S1102,Kevin Lee,Male,22,South Korea,USA,2022,Computer Science,kevin.lee@email.kr,1234554321,CS666,3.2,Lee Sun,No,Ms. Park,90,OK,2026,308,Seoul,2022A
+S1103,Emily Evans,Female,24,USA,Australia,2025,Nursing,emily.evans@email.com,2345671234,NUR777,3.8,John Evans,yes,Dr. White,110,OK,2029,327,New York,2025C
+S1104,Lucas Costa,Male,22,Brazil,Portugal,2024,Economics,lucas.costa@mail.br,3456789123,ECO888,3.6,Jose Costa,No,Ms. Souza,100,OK,2028,321,Lisbon,2024B
+S1105,Marie Dubois,Female,21,France,Canada,2023,Psychology,marie.dubois@mail.fr,4567891234,PSY999,3.7,Pierre Dubois,YES,Dr. Martin,115,OK,2027,310,Montreal,2023C
+S1106,Wei Zhang,Female,23,China,UK,2023,Physics,wei.zhang@email.cn,5678912345,PHY111,3.5,Chang Zhang,yes,Mr. Smith,120,OK,2027,311,London,2023A
+S1107,Pedro Costa,Male,20,Brazil,Spain,2022,Engineering,pedro.costa@mail.br,6789123456,ENG222,3.3,Ricardo Costa,No,Dr. Lopez,100,OK,2026,315,Madrid,2022C
+S1108,Anna Popov,Female,21,Russia,France,2024,Music,anna.popov@mail.ru,7891234567,MUS333,3.8,Sergei Popov,YES,Mr. Lefevre,95,OK,2028,320,Paris,2024B
+S1109,John Kim,Male,22,South Korea,USA,2025,Mathematics,john.kim@email.kr,8901234568,MAT444,3.4,Kim Dong,yes,Mr. Brown,100,OK,2029,319,Los Angeles,2025A
+S1110,Emma Smith,Female,23,UK,Australia,2023,Education,emma.smith@mail.uk,9012345671,EDU555,3.7,James Smith,YES,Dr. Clark,110,OK,2027,316,Sydney,2023C
+S1111,Isabella Russo,Female,21,Italy,Germany,2022,Architecture,isabella.russo@mail.it,9123456782,ARC666,3.9,Marco Russo,No,Dr. Muller,120,OK,2026,330,Berlin,2022B
+S1112,Jack Lee,Male,24,USA,Canada,2024,Business Administration,jack.lee@email.com,9234567812,BUS777,3.6,Michael Lee,yes,Ms. Clark,100,OK,2028,321,Toronto,2024C
+S1113,Olivia Taylor,Female,20,Canada,France,2023,Economics,olivia.taylor@mail.ca,9345678123,ECO888,3.4,Paul Taylor,No,Dr. Dubois,80,OK,2027,317,Paris,2023B
+S1114,Minh Tran,Male,21,Vietnam,Australia,2022,Computer Science,minh.tran@mail.vn,9456781234,CS999,3.7,Tran Van,No,Ms. Brown,100,OK,2026,310,Melbourne,2022A
+S1115,Sophia Müller,Female,22,Germany,Switzerland,2025,Chemistry,sophia.mueller@email.de,9567812345,CHE111,3.8,Thomas Müller,YES,Mr. Keller,130,OK,2029,325,Bern,2025B
+S1116,Diego Torres,Male,23,Mexico,Spain,2024,Law,diego.torres@mail.mx,9678123456,LAW222,3.1,Juan Torres,yes,Ms. Perez,120,OK,2028,310,Madrid,2024A
+S1117,Lucas Johnson,Male,24,USA,UK,2023,Law,lucas.johnson@email.com,9781234567,LAW333,3.4,James Johnson,No,Mr. Smith,150,OK,2027,318,London,2023A
+S1118,Lucia Garcia,Female,23,Spain,France,2022,Art,lucia.garcia@mail.es,9892345678,ART444,3.2,Carlos Garcia,NO,Ms. Martin,110,OK,2026,312,Paris,2022C
+S1119,Anton Karlsson,Male,21,Sweden,Germany,2024,Accounting,anton.karlsson@mail.se,9912345678,ACC555,3.7,Karl Karlsson,YES,Mr. Bauer,110,OK,2028,316,Hamburg,2024C
+S1120,Jessica Smith,Female,20,UK,Netherlands,2023,Law,jessica.smith@mail.uk,9923456789,LAW666,3.8,Emily Smith,YES,Ms. de Vries,90,OK,2027,320,Amsterdam,2023B
+S1121,Oscar Schmidt,Male,23,Germany,USA,2025,Economics,oscar.schmidt@mail.de,9934567891,ECON777,3.5,Peter Schmidt,No,Mr. Green,130,OK,2029,315,New York,2025B
+S1122,Emma Brown,Female,21,USA,Germany,2024,Mathematics,emma.brown@email.com,9945678912,MAT888,3.7,Anna Brown,YES,Dr. Keller,110,OK,2028,310,Berlin,2024C
+S1123,Samuel Kim,Male,20,South Korea,UK,2023,Film Studies,samuel.kim@email.kr,9956789123,FIL999,3.1,Kim Song,No,Ms. Lee,100,OK,2027,327,London,2023A
+S1124,David Kim,Male,22,South Korea,UK,2022,Engineering,david.kim@mail.kr,9967891234,ENG111,3.6,Kim Min,YES,Mr. Park,120,OK,2026,315,London,2022B
+S1125,Anna Rossi,Female,21,Italy,France,2024,Engineering,anna.rossi@email.it,9978912345,ENG222,3.8,Marco Rossi,YES,Dr. Laurent,110,OK,2028,320,Paris,2024A
+S1126,Jack Miller,Male,23,USA,Canada,2025,Political Science,jack.miller@email.com,9989123456,POL333,3.6,John Miller,No,Ms. Lopez,120,OK,2029,330,Toronto,2025C
+S1127,Anna Karlsson,Female,22,Sweden,Germany,2025,Accounting,anna.karlsson@email.se,9991234567,ACC444,3.7,Karl Karlsson,YES,Mr. Bauer,110,OK,2029,321,Berlin,2025A
+S1128,Victor Hugo,Male,21,Brazil,France,2023,Philosophy,victor.hugo@mail.br,9992345678,PHI555,3.4,Hugo Lima,No,Ms. Lefevre,100,OK,2027,325,Paris,2023A
+S1129,Chloe Martin,Female,23,France,USA,2025,Data Science,chloe.martin@mail.fr,9993456789,DS666,3.8,Martin Pierre,YES,Dr. White,120,OK,2029,340,Boston,2025B
+S1130,Olivia Kim,Female,20,South Korea,USA,2024,Biology,olivia.kim@email.kr,9994567891,BIO777,3.6,Kim Young,YES,Ms. Lee,90,OK,2028,322,Los Angeles,2024A
+S1131,Anna Müller,Female,21,Germany,Switzerland,2025,Education,anna.mueller@email.de,9995678912,EDU888,3.9,Peter Müller,YES,Mr. Keller,100,OK,2029,315,Bern,2025A
+S1132,George Evans,Male,22,USA,Australia,2023,Engineering,george.evans@email.com,9996789123,ENG999,3.6,Mary Evans,YES,Dr. Clark,120,OK,2027,327,Sydney,2023C
+S1133,,,,,,,,,,,,,,,,,,,,
+S1134,,,,,,,,,,,,,,,,,,,,
+S1135,,,,,,,,,,,,,,,,,,,,
+S1136,,,,,,,,,,,,,,,,,,,,
+S1137,,,,,,,,,,,,,,,,,,,,
+S1138,,,,,,,,,,,,,,,,,,,,
+S1139,,,,,,,,,,,,,,,,,,,,
+S1140,,,,,,,,,,,,,,,,,,,,
+S1141,,,,,,,,,,,,,,,,,,,,
+S1142,,,,,,,,,,,,,,,,,,,,
+S1143,,,,,,,,,,,,,,,,,,,,
+S1144,,,,,,,,,,,,,,,,,,,,
+S1145,,,,,,,,,,,,,,,,,,,,
+S1146,,,,,,,,,,,,,,,,,,,,
+S1147,,,,,,,,,,,,,,,,,,,,
+S1148,,,,,,,,,,,,,,,,,,,,
+S1149,,,,,,,,,,,,,,,,,,,,
+S1150,,,,,,,,,,,,,,,,,,,,
+S1151,,,,,,,,,,,,,,,,,,,,
+S1152,,,,,,,,,,,,,,,,,,,,
+S1153,,,,,,,,,,,,,,,,,,,,
+S1154,,,,,,,,,,,,,,,,,,,,
+S1155,,,,,,,,,,,,,,,,,,,,
+S1156,,,,,,,,,,,,,,,,,,,,
+S1157,,,,,,,,,,,,,,,,,,,,
+S1158,,,,,,,,,,,,,,,,,,,,
+S1159,,,,,,,,,,,,,,,,,,,,
+S1160,,,,,,,,,,,,,,,,,,,,
+S1161,,,,,,,,,,,,,,,,,,,,
+S1162,,,,,,,,,,,,,,,,,,,,
+S1163,,,,,,,,,,,,,,,,,,,,
+S1164,,,,,,,,,,,,,,,,,,,,
+S1165,,,,,,,,,,,,,,,,,,,,
+S1166,,,,,,,,,,,,,,,,,,,,
+S1167,,,,,,,,,,,,,,,,,,,,
+S1168,,,,,,,,,,,,,,,,,,,,
+S1169,,,,,,,,,,,,,,,,,,,,
+S1170,,,,,,,,,,,,,,,,,,,,
+S1171,,,,,,,,,,,,,,,,,,,,
+S1172,,,,,,,,,,,,,,,,,,,,
+S1173,,,,,,,,,,,,,,,,,,,,
+S1174,,,,,,,,,,,,,,,,,,,,
+S1175,,,,,,,,,,,,,,,,,,,,
+S1176,,,,,,,,,,,,,,,,,,,,
+S1177,,,,,,,,,,,,,,,,,,,,
+S1178,,,,,,,,,,,,,,,,,,,,
+S1179,,,,,,,,,,,,,,,,,,,,
+S1180,,,,,,,,,,,,,,,,,,,,
+S1181,,,,,,,,,,,,,,,,,,,,
+S1182,,,,,,,,,,,,,,,,,,,,
+S1183,,,,,,,,,,,,,,,,,,,,
+S1184,,,,,,,,,,,,,,,,,,,,
+S1185,,,,,,,,,,,,,,,,,,,,
+S1186,,,,,,,,,,,,,,,,,,,,
+S1187,,,,,,,,,,,,,,,,,,,,
+S1188,,,,,,,,,,,,,,,,,,,,
+S1189,,,,,,,,,,,,,,,,,,,,
+S1190,,,,,,,,,,,,,,,,,,,,
+S1191,,,,,,,,,,,,,,,,,,,,
+S1192,,,,,,,,,,,,,,,,,,,,
+S1193,,,,,,,,,,,,,,,,,,,,
+S1194,,,,,,,,,,,,,,,,,,,,
+S1195,,,,,,,,,,,,,,,,,,,,
+S1196,,,,,,,,,,,,,,,,,,,,
+S1197,,,,,,,,,,,,,,,,,,,,
+S1198,,,,,,,,,,,,,,,,,,,,
+S1199,,,,,,,,,,,,,,,,,,,,
+S1200,,,,,,,,,,,,,,,,,,,,
